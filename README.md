@@ -1,6 +1,5 @@
 <h1>Hi, I'm Veronica! <br/></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
 
 <!--
 **Veronica-Joseph/Veronica-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
