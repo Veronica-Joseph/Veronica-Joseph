@@ -1,4 +1,6 @@
-<h1>Hi, I'm Veronica! <br/></h1>
+<h1>Hi! I'm a cybersecurity student with a growing focus on Blue Team work 🔍🛡️
+Most of what I share here are TryHackMe writeups and notes from the labs I’m working through. I’m still learning and experimenting, so any advice or feedback is always appreciated 🙌
+I also write on Medium about security concepts that catch my interest. If you’re curious, feel free to take a look 👇   <br/></h1>
 
 
 <!--
